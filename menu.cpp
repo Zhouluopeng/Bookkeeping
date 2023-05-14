@@ -2,6 +2,15 @@
 void showMainMenu()
 {
     system("cls");
+    printf(" \n");
+    printf("  --------------\n");
+    printf(" <  Hello! >\n");
+    printf("  --------------\n");
+    printf("         \\   ^__^\n");
+    printf("          \\  (oo)\\_______\n");
+    printf("             (__)\\       )\\/\\\n");
+    printf("                 ||----w |\n");
+    printf("                 ||     ||\n");
     cout << "---------------------------" << endl;
     cout << "|========Welcome!=========|" << endl;
     cout << "          1.Bookkeeping    " << endl;
